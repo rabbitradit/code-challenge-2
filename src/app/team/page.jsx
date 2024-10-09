@@ -9,7 +9,7 @@ import { useEffect } from 'react'
 
 
 
-const teamPage = () => {
+const TeamPage = () => {
   const [dataMap, setDataUser] = useState([])
   const onFetch= async() => {
     try {
@@ -99,5 +99,5 @@ const teamPage = () => {
   )
 }
 
-export default teamPage
+export default TeamPage
 
