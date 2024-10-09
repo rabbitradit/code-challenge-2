@@ -9,7 +9,7 @@ import { useEffect } from 'react'
 
 
 
-const aboutUsPage = () => {
+const AboutUsPage = () => {
   const [dataMap, setDataUser] = useState([])
   const onFetch= async() => {
     try {
@@ -157,4 +157,4 @@ const aboutUsPage = () => {
   )
 }
 
-export default aboutUsPage
+export default AboutUsPage
