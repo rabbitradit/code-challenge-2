@@ -12,6 +12,11 @@ module.exports = {
         foreground: "var(--foreground)",
       },
     },
+    plugins: [
+      require('daisyui'),
+    ],
   },
-  plugins: [],
+  daisyui: {
+      themese: false,
+  }
 };
