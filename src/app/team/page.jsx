@@ -57,9 +57,9 @@ const teamPage = () => {
   ];
   return (
     <>
-    <h1 className='pt-16 font-extrabold text-5xl w-full justify-center flex'>Our Team</h1>
+    <h1 className="pt-16 font-extrabold text-5xl w-full justify-center flex">Our Team</h1>
     <section className='flex w-full bg-red-500'>
-    <div className=" w-full px-10 grid grid-cols-1 sm:grid-cols-2 gap-7 py-10 pt-10 bg-white">
+    <div className="w-full px-10 grid grid-cols-1 sm:grid-cols-2 gap-7 py-10 pt-10 bg-white">
         {dataMap.map((item, index) => {
           return (
             <div

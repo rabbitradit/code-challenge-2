@@ -207,9 +207,9 @@ export default function Home() {
           </figure>
           <article className="w-full md:w-1/2 flex flex-col justify-center pl-0 md:pl-8">
             <h1 className="font-extrabold text-3xl md:text-5xl pb-4">Who We Are</h1>
-            <p>Bandai Namco Entertainment is one of the world’s leading video game publishers and entertainment companies, with a rich history of delivering iconic games, toys, and media content that span decades.</p>
+            <p>Bandai Namco Entertainment is one of the worlds leading video game publishers and entertainment companies, with a rich history of delivering iconic games, toys, and media content that span decades.</p>
           <p className="mt-3">
-          In 2005, the two entertainment giants, Bandai and Namco, merged to form Bandai Namco Holdings Inc. The goal was to combine Bandai’s strength in toys and character licensing with Namco’s expertise in video games and amusement. This strategic move expanded the company’s ability to create integrated entertainment experiences across multiple platforms.</p>
+          In 2005, the two entertainment giants, Bandai and Namco, merged to form Bandai Namco Holdings Inc. The goal was to combine Bandais strength in toys and character licensing with Namcos expertise in video games and amusement. This strategic move expanded the companys ability to create integrated entertainment experiences across multiple platforms.</p>
         </article>
         </section>
         <figure className="w-full h-[68vh] mt-16 rounded-xl overflow-hidden">
@@ -227,7 +227,7 @@ export default function Home() {
                 Hafiz
               </h1>
               <p>
-                "Been trusting bandai since 2005!, top tier company for sure!"
+                Been trusting bandai since 2005!, top tier company for sure!
               </p>
             </article>
           </section>
@@ -238,7 +238,7 @@ export default function Home() {
                 Hachiman
               </h1>
               <p>
-              "Absolutely amazing support! They helped me unbanning both my Dark Souls Remastered account and my Dark Souls 3 account. Incredibly fast employees as well!"
+              Absolutely amazing support! They helped me unbanning both my Dark Souls Remastered account and my Dark Souls 3 account. Incredibly fast employees as well!
               </p>
             </article>
           </section>

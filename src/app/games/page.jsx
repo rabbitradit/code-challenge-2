@@ -188,7 +188,7 @@ const GamesPage = () => {
                 Hafiz
               </h1>
               <p>
-                "Been trusting bandai since 2005!, top tier company for sure!"
+                Been trusting bandai since 2005!, top tier company for sure!
               </p>
             </article>
           </section>
@@ -199,7 +199,7 @@ const GamesPage = () => {
                 Hachiman
               </h1>
               <p>
-              "Absolutely amazing support! They helped me unbanning both my Dark Souls Remastered account and my Dark Souls 3 account. Incredibly fast employees as well!"
+              Absolutely amazing support! They helped me unbanning both my Dark Souls Remastered account and my Dark Souls 3 account. Incredibly fast employees as well!
               </p>
             </article>
           </section>
